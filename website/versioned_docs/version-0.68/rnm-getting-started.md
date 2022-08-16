@@ -1,5 +1,5 @@
 ---
-id: version-0.66-rnm-getting-started
+id: version-0.68-rnm-getting-started
 title: Get Started with macOS
 original_id: rnm-getting-started
 ---
